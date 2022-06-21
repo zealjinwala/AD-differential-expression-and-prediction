@@ -1,0 +1,1 @@
+>RScripts/543_z_norm.R - An r script that takes geo accession numbers, downloads them, and performs z-normalization. It saves the expression output, along with the subject info.
