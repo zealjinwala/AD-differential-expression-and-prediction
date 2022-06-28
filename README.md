@@ -9,3 +9,5 @@ This study performs differential expression analysis and classification based on
 
 
 >RScripts/543_z_norm.R - An r script that takes geo accession numbers, downloads them, and performs z-normalization. It saves the expression output, along with the subject info.
+
+>Project.mlx- A matlab raw script that conducts the rest of the pipeline
